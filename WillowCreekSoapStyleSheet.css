@@ -1,0 +1,100 @@
+h1{
+    background-color: rgb(16, 15, 15);
+    padding-top: 50px;
+    color: darkgoldenrod;
+    text-align: center;
+    text-transform: capitalize;
+    text-underline-offset: 15px;
+    text-shadow: 15px;
+    text-decoration: underline;
+    /*border: 10px; , border-radius: 50px;  ,  border-style: groove; ,  border-color: darkgoldenrod; */
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    
+    
+    border-color: darkgoldenrod;
+    
+    
+}
+p{
+    color:darkgoldenrod;
+    text-align: center;
+}
+footer{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    border: 10px;
+    border-style: groove;
+    border-radius: 50px;
+    border-color: darkgoldenrod;
+    color:darkgoldenrod;
+}
+button{
+    color: darkgoldenrod;
+    background-color: rgb(16, 15, 15);
+    border-radius: 15px;
+    border-color: goldenrod;
+}
+body{
+    background-color: darkolivegreen;
+}
+nav{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 50px;
+    background-color:rgb(16, 15, 15) ;
+    color: darkgoldenrod
+
+}
+ section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: darkgoldenrod;
+    background-color: rgb(16, 15, 15);
+    border: 100px;
+    border-width: 15px;
+    border-radius: 50px;
+    border-color: darkgoldenrod;
+}
+.fit-picture{
+    padding: 10px;
+    align-self: center;
+    text-align: center;
+    width: 1675px;
+
+    
+}
+
+.imgbox {
+    display: grid;
+    height: 100%;
+}
+.center-fit {
+    max-width: 100%;
+    max-height: 100vh;
+    margin: auto;
+}
+audio{
+    background-color: aliceblue;
+
+}
+iframe{
+    padding: 100px;
+}
+table{
+    text-decoration: underline;
+    padding: 50px;
+    border: 1px;
+    border-width: 3px;
+    border-style: solid;
+    text-align: center;
+    border-color: black;
+}
+h2{
+    text-align: center;
+}
+form{
+    padding: 25px;
+    text-align: center;
+}
